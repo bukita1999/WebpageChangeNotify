@@ -1,7 +1,7 @@
 {
     "StartPage": [
-        "",
-        ""
+        "http://dutdice.dlut.edu.cn/xszcq/jztz/jztz.htm",
+        "http://ssdut.dlut.edu.cn/index/bkstz.htm"
     ],
     "TimeInterval": 100,
     "FailTimeInterval": 30,
@@ -24,7 +24,7 @@
         "smtp_server": ""
     },
     "Filter": {
-        "expression": "",
-        "num": 1
+        "expression": "choate1999@hotmail.com",
+        "num": something has changed in the website
     }
 }
